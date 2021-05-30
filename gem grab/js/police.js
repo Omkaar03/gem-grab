@@ -1,0 +1,5 @@
+class police {
+    constructer(){
+        
+    }
+}
